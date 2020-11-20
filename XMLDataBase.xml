@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<GameDataBase>
+	<Game
+		NameOfTheGame="The Witcher 3: Wild Hunt"
+		Developer="CD Projekt Red"
+		ReleaseDate="2015"			
+		MainGenre="Action RPG"
+		GameMode="Single-player"
+		Engine="REDengine 3"
+		Metascore="93"		
+	></Game>
+	<Game
+		NameOfTheGame="Dota 2"
+		Developer="Valve"
+		ReleaseDate="2013"
+		MainGenre="MOBA"
+		GameMode="Multiplayer"
+		Engine="Source 2"
+		Metascore="90"
+	></Game>
+	<Game
+		NameOfTheGame="Minecraft"
+		Developer="Mojang"
+		ReleaseDate="2011"
+		MainGenre="Survival"
+		GameMode="Single-player"
+		Engine="Unknown"
+		Metascore="93"
+	></Game>
+	<Game
+		NameOfTheGame="Dark souls III"
+		Developer="From Software"
+		ReleaseDate="2016"
+		MainGenre="Action RPG"
+		GameMode="Single-player"
+		Engine="Unknown"
+		Metascore="89"
+	></Game>
+	<Game
+		NameOfTheGame="Sekiro: Shadows Die Twice"
+		Developer="From Software"
+		ReleaseDate="2019"
+		MainGenre="Action RPG"
+		GameMode="Single-player"
+		Engine="Unknown"
+		Metascore="88"
+	></Game>
+	<Game
+		NameOfTheGame="League of Legends"
+		Developer="Riot Games"
+		ReleaseDate="2009"
+		MainGenre="MOBA"
+		GameMode="Multiplayer"
+		Engine="Unknown"
+		Metascore="78"
+	></Game>
+	<Game
+		NameOfTheGame="Counter-Strike: Global Offensive"
+		Developer="Valve"
+		ReleaseDate="2012"
+		MainGenre="FPS"
+		GameMode="Multiplayer"
+		Engine="Source 2"
+		Metascore="83"
+	></Game>
+	<Game
+		NameOfTheGame="Valorant"
+		Developer="Riot Games"
+		ReleaseDate="2020"
+		MainGenre="FPS"
+		GameMode="Multiplayer"
+		Engine="Unreal Engine 4"
+		Metascore="80"
+	></Game>
+	<Game
+		NameOfTheGame="ARK: Survival Evolved"
+		Developer="Studio Wildcard"
+		ReleaseDate="2017"
+		MainGenre="Survival"
+		GameMode="Multiplayer"
+		Engine="Unreal Engine 4"
+		Metascore="70"
+	></Game>
+	<Game
+		NameOfTheGame="Genshin Impact"
+		Developer="miHoYo Limited"
+		ReleaseDate="2020"
+		MainGenre="Action RPG"
+		GameMode="Multiplayer"
+		Engine="Unity"
+		Metascore="84"
+	></Game>
+</GameDataBase>

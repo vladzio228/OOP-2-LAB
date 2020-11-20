@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\xml_laba\xml_laba\bin\Debug\netcoreapp3.1\xml_laba.exe
+C:\Users\User\source\repos\xml_laba\xml_laba\bin\Debug\netcoreapp3.1\xml_laba.deps.json
+C:\Users\User\source\repos\xml_laba\xml_laba\bin\Debug\netcoreapp3.1\xml_laba.runtimeconfig.json
+C:\Users\User\source\repos\xml_laba\xml_laba\bin\Debug\netcoreapp3.1\xml_laba.runtimeconfig.dev.json
+C:\Users\User\source\repos\xml_laba\xml_laba\bin\Debug\netcoreapp3.1\xml_laba.dll
+C:\Users\User\source\repos\xml_laba\xml_laba\bin\Debug\netcoreapp3.1\xml_laba.pdb
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.csprojAssemblyReference.cache
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.Properties.Resources.resources
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.csproj.GenerateResource.cache
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.AssemblyInfo.cs
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.dll
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.pdb
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.genruntimeconfig.cache
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.MainWindow.resources
+C:\Users\User\source\repos\xml_laba\xml_laba\obj\Debug\netcoreapp3.1\xml_laba.Help.resources
